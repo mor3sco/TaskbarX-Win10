@@ -41,7 +41,7 @@ TaskbarX está em desenvolvimento desde 6 de maio de 2018. Também conhecido com
 
 ## Comandos
 
-_ ** - stop ** irá parar o TaskbarX, colocar todos os ícones de volta à esquerda e redefinir o estilo da barra de tarefas.
+** - stop ** irá parar o TaskbarX, colocar todos os ícones de volta à esquerda e redefinir o estilo da barra de tarefas.
 ** - tbs = 1 ** tornará a barra de tarefas transparente. 2 desfoque, 3 acrílicos, 4 transparentes (com gradiente), 5 opacos e 0 desativados.
 ** - ptbo = 0 ** definirá o deslocamento da barra de tarefas primária com base no centro.
 ** - stbo = 0 ** definirá o deslocamento da barra de tarefas primária com base no centro.
